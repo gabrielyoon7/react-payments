@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-payments/static/js/main.f4049389.js",
+    "main.js": "/react-payments/static/js/main.b4f1cedf.js",
     "index.html": "/react-payments/index.html",
-    "main.f4049389.js.map": "/react-payments/static/js/main.f4049389.js.map"
+    "main.b4f1cedf.js.map": "/react-payments/static/js/main.b4f1cedf.js.map"
   },
   "entrypoints": [
-    "static/js/main.f4049389.js"
+    "static/js/main.b4f1cedf.js"
   ]
 }
